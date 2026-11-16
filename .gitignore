@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+testphotos/
+
+*.jpg
+*.jpeg
+*.heic
+*.mp4
+*.mov
+*.spec
+build/
+dist/
